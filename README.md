@@ -137,11 +137,11 @@ Android 애플리케이션에 필요한 **RESTful API** 요청.
  **Google Map API** 연동 및 위치 데이터 활용.  
  **JSON Web Token**을 사용하여 회원 인증 적용.  
  
- - 사용한 기술 :  
+	- 사용한 기술 :  
  **Server** : [Amazon Web Service](https://aws.amazon.com/ko/), Linux Ubuntu OS, php, MySQL, Apache2  
  **Android Java** 주요 오픈 라이브러리 : [okhttp](https://github.com/square/okhttp), [gson](https://github.com/google/gson), [picasso](https://github.com/square/picasso), [butterknife](https://github.com/JakeWharton/butterknife)
 
-  - **사용 툴** : Android Studio, PuTTY, FileZilla, GitLab, Slack, Zeplin, Postman
+	- **사용 툴** : Android Studio, PuTTY, FileZilla, GitLab, Slack, Zeplin, Postman
 
 #### 개인 프로젝트
  - **[HouseWork(집안일 공유)](https://play.google.com/store/apps/details?id=com.bangcompany.bang.houseworkapp)**
@@ -156,11 +156,11 @@ Android 애플리케이션에 필요한 **RESTful API** 요청.
  **Android Material Design** 적용.  
  **MVP** 디자인 패턴 기반으로 구현.  
  
-  - 사용한 기술 :  
+	- 사용한 기술 :  
  **Server** : [Google Cloud Platform](https://cloud.google.com/products/compute/?hl=ko), Linux Ubuntu OS, php, MySQL, Apache2  
  **Android Kotlin** 주요 오픈 라이브러리 : [okhttp](https://github.com/square/okhttp), [gson](https://github.com/google/gson), [picasso](https://github.com/square/picasso)
 
-  - **사용 툴** : Android Studio, PuTTY, FileZilla, GitLab, Slack, Postman
+	- **사용 툴** : Android Studio, PuTTY, FileZilla, GitLab, Slack, Postman
 
 
 ----------
