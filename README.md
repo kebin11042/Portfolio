@@ -60,6 +60,13 @@
  - 특징 : Java GUI 구현을 위한 **Swing** 패키지, **mdb**파일과 연동하기 위해 **JDBC-ODBC** 패키지 사용
  - 사용 기술 : `Java`, `mdb(Microsoft Office Access 데이터베이스)`
 
+#### **ToeicHelper**
+ - 수강 과목 : 산학협력1
+ - Toeic 공부에 도움을 주는 Android 애플리케이션.
+ - 기간 : 2015.03 ~ 2015.06
+ - 특징 : 개인 정보를 위한 **회원제 서비스**, **[ColorDict](https://play.google.com/store/apps/details?id=com.socialnmobile.colordict&hl=ko)** 전자사전 연동하여 개인 단어장 등록, 사용자 등록단어 순위 보기 기능
+ - 사용 기술 : `Android Java`, `php`, `MySQL`
+
 #### **CCTV 영상의 전경과 배경을 분리하는 프로그램(졸업작품)**
  - 수강 과목 : 캡스톤 디자인1
  - 변화에 적응 가능한 **가우시안 혼합 모델(Gaussian Mixture Models)** 을 이용하여 전경(움직이는 객체)과 배경을 분리하는 프로그램
