@@ -30,21 +30,27 @@
 
 ### 교내 주요 프로젝트
 
-#### **사칙연산 계산기**
+#### **[사칙연산 계산기][1]**
 - 수강 과목 : 마이크로 프로세서
 -  **EMU8086(MICROPROCESSOR EMULATOR)** 을 사용하여 사칙연산 계산기 개발 
 - 기간 : 2012.09 ~ 2012.12
 - 총 세 명의 팀원 중 **팀장** 역할
 - 특징 : 기존 2^16의 범위의 계산 결과를 넘어 **자릿수의 제한이 없는 실수형 계산기** 구현
 - 사용 기술 : `assembly 언어`
+- 스크린 샷 :  
+<img src="img/screen_shot_1.png" width="400px">  
+</br>
 
-#### **포스트잇톸**
+#### **[포스트잇톸][2]**
 - 수강 과목 : 객체지향 프로그래밍
 - 포스트잇을 붙이고 띄는것에 아이디어를 얻어 Java 애플리케이션으로 구현. 인터넷이 되지 않는 컴퓨터에서의 메신져 프로그램.
 - 기간 : 2013.03 ~ 2013.06
 - 총 네 명의 팀원 중 **팀장** 역할
 - 특징 : Java GUI 구현을 위한 **Swing** 패키지, **Vector** 클래스, **파일 입출력** 
 - 사용 기술 : `Java`
+- 스크린 샷 :  
+<img src="img/screen_shot_2.png" width="250px">  
+</br>
 
 #### **24bit 3-bus CPU 설계**
  - 수강 과목 : 컴퓨터 구조
@@ -53,29 +59,41 @@
  - 총 다섯 명의 팀원 중 **팀장** 역할
  - 특징 : **1-bus 구조에서 3-bus 구조** 로 H/W를 설계하면서 명령어 실행과 데이터 처리 효율을 높임
  - 사용 기술 : H/W 및 명령어 설계
+ - 스크린 샷 :  
+<img src="img/screen_shot_3.jpg" width="220px"> <img src="img/screen_shot_4.jpg" width="270px">
+</br>
 
-#### **학과 총 동문회 전자 방명록**
+#### **[학과 총 동문회 전자 방명록][3]**
  - 학과 총 동문회 전자 방명록을 Java 애플리케이션으로 구현하여 정보를 저장하는 프로그램
  - 기간 : 2014.05 ~ 2014.05
  - 특징 : Java GUI 구현을 위한 **Swing** 패키지, **mdb**파일과 연동하기 위해 **JDBC-ODBC** 패키지 사용
  - 사용 기술 : `Java`, `mdb(Microsoft Office Access 데이터베이스)`
+  - 스크린 샷 :  
+<img src="img/screen_shot_5.png" width="350px">
+</br>
 
-#### **ToeicHelper**
+#### **[ToeicHelper][4]**
  - 수강 과목 : 산학협력1
  - Toeic 공부에 도움을 주는 Android 애플리케이션.
  - 기간 : 2015.03 ~ 2015.06
  - 특징 : 개인 정보를 위한 **회원제 서비스**, **[ColorDict](https://play.google.com/store/apps/details?id=com.socialnmobile.colordict&hl=ko)** 전자사전 연동하여 개인 단어장 등록, 사용자 등록단어 순위 보기 기능
  - 사용 기술 : `Android Java`, `php`, `MySQL`
+ - 스크린 샷 :  
+<img src="img/screen_shot_6.png" width="200px">
+</br>
 
-#### **CCTV 영상의 전경과 배경을 분리하는 프로그램(졸업작품)**
+#### **[CCTV 영상의 전경과 배경을 분리하는 프로그램(졸업작품)][5]**
  - 수강 과목 : 캡스톤 디자인1
  - 변화에 적응 가능한 **가우시안 혼합 모델(Gaussian Mixture Models)** 을 이용하여 전경(움직이는 객체)과 배경을 분리하는 프로그램
  - 기간 : 2015.03 ~ 2015.06
  - 특징 : GUI를 위해 **MFC** 사용,  전경과 배경 분리를 위한 **[참고 논문](http://www.cse.psu.edu/~rtc12/CSE586Spring2010/papers/emBGsubtractAboutSandG.pdf)**, 
  노이즈 제거를 위해 **Median filter**, 객체 파악을 위한 **Labeling** 적용
  - 사용 기술 : `C++`, `MFC`, `영상처리(no openCV)`
+ - 스크린 샷 :  
+<img src="img/screen_shot_7.png" width="350px">
+</br>
 
-#### **스마트 거울(졸업작품)**
+#### **[스마트 거울(졸업작품)][6]**
  - 수강 과목 : 캡스톤 디자인2
  - 거울을 보며 **다양한 정보**를 얻고 노래를 들을 수 있는 스마트 거울을 구현.  
    또한 **안면 인식**과 **음성 인식**으로 기능을 제어할 수 있도록 구현.
@@ -83,11 +101,14 @@
  - 특징 : **[ODROID-C2](https://www.hardkernel.com/main/products/prdt_info.php?g_code=G145457216438)**, 원웨이 미러, 모니터, 웹캠, 마이크를 사용하여 스마트거울 본체를 구현하였으며 사용자 개인정보를 등록하기 위해 **서버**와 **Android 애플리케이션** 개발
  - 사용 기술 : `Android Java`, `MySQL`, `PHP`, `Android openCV`
  - **[시연 영상](https://www.youtube.com/watch?v=P2LmrTozXKo&t=0s&list=PLeeQUsIypApzirs2K54nDy5Q4RPufhjTp&index=2)**
+ - 스크린 샷 :  
+<img src="img/screen_shot_8.png" width="300px"> <img src="img/screen_shot_9.png" width="450px">
+</br>
 
 ### 교외 주요 프로젝트
 
 #### 한이음 공모대전 참가
- - **[한이음지정공모-LG CNS]에너지 절감 공모전 대비**
+ - **[[한이음지정공모-LG CNS]에너지 절감 공모전 대비][7]**
 	- **에너지 빈곤층**의 자각률을 상승 시키기 위해, 스마트폰으로 **실시간 전기 사용량**을 확인할 수 있도록 도와주는 모바일 애플리케이션 개발. 애플리케이션을 통해 구체적이며 체계적인 전기 사용 계획을 세울 수 있도록 도와준다.
 	- 기간 : 2014.05 ~ 2014.12
 	- 총 네 명 중 **팀원** 역할
@@ -95,9 +116,12 @@
 	- 사용한 기술
 		- H/W : `Arduino UNO R3`, `전류센서`, `이더넷 모듈`
 		- S/W : `Android Java`, `MySQL`, `PHP`
+	- 스크린 샷 :  
+<img src="img/screen_shot_10.png" width="350px">
+</br>
 
   
- - **스마트폰을 이용한 멀티탭 전원 관리 프로그램 개발 ([공모전 전시](http://www.haniumexpo.kr/index.do) 작품 선정)**
+ - **[스마트폰을 이용한 멀티탭 전원 관리 프로그램 개발][8] ([공모전 전시](http://www.haniumexpo.kr/index.do) 작품 선정)]**
 	- 기존 멀티탭의 화재 발생 위험, 수동으로 스위치를 제어해야 하는 불편함,  멀티탭 방치로 인한 에너지 낭비 등의 문제를 해결하기 위해 **멀티탭 전원 관리 시스템** 구축
 	- 기간 :  2015.04 ~ 2015.11
 	- 총 다섯 명 중 **팀장** 역할
@@ -176,3 +200,12 @@ Android 애플리케이션에 필요한 **RESTful API** 요청.
  - 2016년 **평창문화 올림픽 예술 해커톤 최우수상 [(관련기사)](http://www.fnnews.com/news/201607181744010886)**
 	- 평창 올림픽에서 추억할 수 있는 디지털 타임캡슐 서비스 개발
 	- Android(Java) 애플리케이션 시제품 개발 및 서버 구현
+
+[1]: https://github.com/kebin11042/Calculator-EMU8086-
+[2]: https://github.com/kebin11042/Post_it-talk
+[3]: https://github.com/kebin11042/ElectronicVisitorsBook
+[4]: https://github.com/kebin11042/ToeicHelper
+[5]: https://github.com/kebin11042/GaussiansMixtureModel
+[6]: https://github.com/kebin11042/SmartMirror
+[7]: https://github.com/kebin11042/hanium_2014
+[8]: https://github.com/kebin11042/hanium_2015
