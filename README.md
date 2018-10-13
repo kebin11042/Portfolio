@@ -134,6 +134,7 @@
 
 - **[unbox](https://play.google.com/store/apps/details?id=com.unbox.app.unboxbeta)**
 	- **아마추어 예술가를 위한 티켓팅 플랫폼 서비스**(웹사이트, Android, iOS App)
+	- 기업 : 언박스 주식회사
 	- 기간 : 2015.10 ~ 2016.06
 	- 성남 산업 진흥 재단에서 주최한 **스마트 창작터에 선발**되어 창업 지원금 혜택
 	- 총 다섯 명의 대학생 팀원 중 **개발자** 역할, 두 명의 외주 개발자와 함께 진행
@@ -155,6 +156,7 @@ Android 애플리케이션에 필요한 **RESTful API** 요청.
 
 - **[TimeCapsule](https://play.google.com/store/apps/details?id=com.timecapsule.unbox.timecapsuleapp)**
 	- **위치기반 디지털 타임캡슐 서비스**(Android, iOS App)
+	- 기업 : 언박스 주식회사
 	- 기간 : 2017.10 ~ 2018.05
 	- **선도 벤처 연계 기술 창업지원 사업에 선발**되어 창업 교육금 및 자본금을 지원 받음.
 	- 총 세 명의 팀원 중 **개발자** 역할, 두 명의 **현직 개발자**와 함께 진행
