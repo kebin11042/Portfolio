@@ -176,6 +176,44 @@ Android 애플리케이션에 필요한 **RESTful API** 요청.
 
 	- **사용 툴** : Android Studio, PuTTY, FileZilla, GitLab, Slack, Zeplin, Postman
 
+#### 인포메이드
+
+- **[쏠쏠한 선택](https://play.google.com/store/apps/details?id=com.ox)**
+	- **선택형 리워드 광고 플랫폼 서비스**(Android, iOS App)
+	- 기업 : (주) 인포메이드
+	- 기간 : 2018.12 ~ 
+	- 총 다섯 명의 팀원 중 **모바일 앱 개발자(사원)** 역할. 한 명의 백엔드 개발자(팀장)와 협업. 
+	- **주요 수행 역할** :  
+[React-native](https://facebook.github.io/react-native) 크로스 플랫폼을 사용하여 모바일 앱 개발(Android, iOS).  
+팀원(디자이너, 기획자)과 **협업** 및 **서비스 기획**.  
+모바일 앱에 필요한 **RESTful API** 요청.  
+**Firebase Cloud Messaging** 서비스를 사용하여 푸시 알림 구현.  
+**SNS** 로그인 API 연동. 
+컨텐츠 제작 및 운영.
+버그 수정 및 서비스 유지 보수.
+
+	- **사용한 기술** : React-native, Android(Java), Javascript, [Redux](https://deminoth.github.io/redux), [react-navigation](https://reactnavigation.org)
+	- **사용 툴** : Android Studio, Visual Studio Code, Github(private), Zeplin
+
+
+- **[유캔두](https://play.google.com/store/apps/details?id=com.youcando)**
+	- **생활 속 목표달성 동기부여 서비스**(Android, iOS App)
+	- 기업 : (주) 인포메이드, (주) 야나두
+	- 기간 : 2019.05 ~ 
+	- 총 열 명의 팀원 중 **모바일 앱 개발자(사원)** 역할. 한 명의 백엔드 개발자(팀장)와 협업. 
+	- **주요 수행 역할** :  
+[React-native](https://facebook.github.io/react-native) 크로스 플랫폼을 사용하여 모바일 앱 개발(Android, iOS).  
+팀원(디자이너, 기획자)과 **협업** 및 **서비스 기획**.  
+모바일 앱에 필요한 **RESTful API** 요청.  
+**Firebase Cloud Messaging** 서비스를 사용하여 푸시 알림 구현.  
+**SNS** 로그인 API 연동.  
+**[페이레터](https://www.payletter.com)** 결제 모듈 연동.
+버그 수정 및 서비스 유지 보수.
+
+	- **사용한 기술** : React-native, Android(Java), Javascript, [mobx](https://github.com/mobxjs/mobx), [react-navigation](https://reactnavigation.org)
+	- **사용 툴** : Android Studio, Visual Studio Code, Github(private), Zeplin
+
+
 #### 개인 프로젝트
  - **[HouseWork(집안일 공유)](https://play.google.com/store/apps/details?id=com.bangcompany.bang.houseworkapp)**
 	- 집안일 공유를 위한 **집안일 To-Do List** 애플리케이션 (Android App)
