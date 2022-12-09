@@ -213,6 +213,39 @@ Android 애플리케이션에 필요한 **RESTful API** 요청.
 	- **사용한 기술** : React-native, Android(Java), Javascript, [mobx](https://github.com/mobxjs/mobx), [react-navigation](https://reactnavigation.org)
 	- **사용 툴** : Android Studio, Visual Studio Code, Github(private), Zeplin
 
+#### 한국 IBM
+
+- **삼성전자 MUSE 시스템 운영 및 개발**
+	- **삼성전자 모바일앱 고객 서비스 센터 웹사이트 및 사내 고객 문의 처리 시스템 개발, 운영**
+	- 기간 : 2019.04 ~ 2022.06
+	- 웹 사이트, 사내 문의 처리 프로그램 서버, 타 서비스 API 연동, Batch 프로그램 개발 및 운영. 
+	- **주요 수행 역할** : 총 일곱 명의 팀원 중 **서버 배포 및 개발자(팀원)** 역할.
+Spring 프레임워크 서버(고객용, 상담원용 2개) 개발 및 운영.
+Red Hat Enterprise Linux OS 환경 JBoss 서버 관리 및 소스 배포.
+로그 분석을 통한 시스템 일일점검 및 서버 모니터링 수행.
+AWS SES 를 이용한 메일 발송 시스템 구현.  
+타 서비스(Samsung Account, Samsung Members..) REST API 및 모바일 앱 연동.  
+Spring Batch 개발 및 Crontab 운영.
+고객 문의 처리 Client 프로그램(XPLATFORM) 개발 및 운영. 
+고객 요청에 따른 MariaDB 데이터 추출.
+
+	- **사용한 기술** : Spring, Java, JSP, Javascript, MyBatis, Spring Batch, MariaDB, XPLATFORM, Red Hat Enterprise Linux, JBoss
+	- **사용 툴** : Visual Studio Code, SVN, MySQL Workbench, SCOUTER
+
+
+- **삼성전자 VERS 시스템 개선 프로젝트**
+	- **삼성전자 관련 벤더사 관리 시스템 개선 및 개발**
+	- 기간 : 2022.07 ~ 2022.11
+	- 삼성전자 사내 벤더관리 시스템 웹사이트 개발. 
+	- **주요 수행 역할** : 총 여섯 명의 팀원 중 **개발자(팀원)** 역할.
+Spring 프레임워크 기반 서버 개발.
+JSP, Javascript, HTML, CSS 를 사용한 웹 화면 구현.
+삼성전자 사내 메일 및 결재 시스템 연동.
+고객 요청에 따른 OracleDB 데이터 추출.
+
+	- **사용한 기술** : Spring, Java, JSP, Javascript, MyBatis, Spring Batch, Oracle
+	- **사용 툴** : Visual Studio Code, Git, DBeaver
+
 
 #### 개인 프로젝트
  - **[HouseWork(집안일 공유)](https://play.google.com/store/apps/details?id=com.bangcompany.bang.houseworkapp)**
