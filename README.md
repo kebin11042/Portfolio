@@ -181,7 +181,7 @@ Android 애플리케이션에 필요한 **RESTful API** 요청.
 - **[쏠쏠한 선택](https://play.google.com/store/apps/details?id=com.ox)**
 	- **선택형 리워드 광고 플랫폼 서비스**(Android, iOS App)
 	- 기업 : (주) 인포메이드
-	- 기간 : 2018.12 ~ 
+	- 기간 : 2018.12 ~ 2020.03
 	- 총 다섯 명의 팀원 중 **모바일 앱 개발자(팀원)** 역할. 한 명의 백엔드 개발자(팀장)와 협업. 
 	- **주요 수행 역할** :  
 [React-native](https://facebook.github.io/react-native) 크로스 플랫폼을 사용하여 모바일 앱 개발(Android, iOS).  
